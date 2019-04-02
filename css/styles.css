@@ -1,0 +1,10 @@
+.navbar {
+  background-color: transparent;
+  padding-left: 0px;
+}
+.navbar-brand{
+  font-size: 80px;
+}
+.jumbotron{
+  padding-bottom: 32px;
+}
